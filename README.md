@@ -24,8 +24,8 @@ simp-gonsole <server address> <nickname>
 Arguments
 =========
 
-- server address - simp server host and port in format: host:port, for example: localhost:7777
-- nickname - your chat nickname
+- server address - simp server host and port in format: host:port, for example: `localhost:7777`
+- nickname - your chat nickname, for example: `SimpUser`
 
 Flags
 =====
