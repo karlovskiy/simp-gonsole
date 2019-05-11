@@ -6,7 +6,7 @@ Installation
 
 Archlinux
 ---------
-You can install from the [Arch User Repository (AUR)](https://aur.archlinux.org/packages/simp-gonsole-git/)
+You can install from the [Arch User Repository (AUR)](https://aur.archlinux.org/packages/simp-gonsole/)
 
 Source
 ------
